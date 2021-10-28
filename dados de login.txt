@@ -1,0 +1,14 @@
+dados do bootcamp
+senha BD- msqlbd1
+usuario: root 
+senha boot 
+---------------------------------------
+minio
+http://localhost:9001/login
+usuario: minioadmin
+senha: minioadmin
+----------------------------------------
+airflow 
+http://localhost:8080/
+usuario: admin
+senha: bootcamp

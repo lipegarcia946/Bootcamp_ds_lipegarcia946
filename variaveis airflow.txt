@@ -1,0 +1,8 @@
+
+*data_lake_server = 172.17.0.4:9000*
+*data_lake_login = minioadmin*
+*data_lake_password = minioadmin
+*database_server = 172.17.0.3 *
+*database_login = root*
+*database_password = bootcamp*
+*database_name = mysqldb1*

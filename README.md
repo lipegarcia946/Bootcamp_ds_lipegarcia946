@@ -1,5 +1,5 @@
 # Bootcamp_ds_lipegarcia946
-Esse repositorio contem os codigos utilizados no bootcamp de DataSience do canal Stack (https://www.youtube.com/c/Stack_tecnologias) ministrado dos dias 18 ao 22 de outubro de 2021
+Esse repositorio contem os codigos utilizados no bootcamp de Data Science do canal Stack (https://www.youtube.com/c/Stack_tecnologias) ministrado dos dias 18 ao 22 de outubro de 2021
 ###################################################################################################################
 <h1> importante </h1>
 neste bootcamp foram utilizadas as tecnologias:
